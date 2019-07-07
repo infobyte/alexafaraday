@@ -1,0 +1,8 @@
+AbortIntent abort
+AMAZON.HelpIntent help
+ShowIntent show
+InfosecIntent infosec
+NetsecIntent netsec
+HackernewsIntent hackernews
+UsersIntent list users
+WorkspacesIntent list workspaces

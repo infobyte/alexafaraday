@@ -1,0 +1,6 @@
+Flask
+req
+Flask-Ask
+requests
+configparser
+feedparser

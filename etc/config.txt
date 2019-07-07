@@ -1,0 +1,4 @@
+[faradayConfig]
+url = http://localhost:5985
+user = faraday
+password = changeme
